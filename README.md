@@ -79,10 +79,6 @@ Layanan/aplikasi yang menghubungkan beberapa kebutuhan pengguna dalam satu siste
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviszola&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" width="40%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aviszola&hide_border=true&bg_color=0F172A&color=34D399&line=38BDF8&point=F472B6" width="90%" />
-</p>
-
 <br>
 
 <p align="center"><sub>// thanks for reading this far — let's build something 🚀</sub></p>
