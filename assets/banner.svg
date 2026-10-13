@@ -74,7 +74,7 @@
     <tspan fill="#e2e8f0">.</tspan>
     <tspan fill="#38bdf8">log</tspan>
     <tspan fill="#e2e8f0">(</tspan>
-    <tspan fill="#f472b6">`Hi, I'm ${developer.name} 👋`</tspan>
+    <tspan fill="#f472b6">`Hi, I'm ${Software Engineerimh} 👋`</tspan>
     <tspan fill="#e2e8f0">);</tspan>
   </text>
 
